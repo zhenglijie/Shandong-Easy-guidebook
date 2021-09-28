@@ -1,0 +1,35 @@
+<!--pages/taishan/taishan.wxml-->
+<view class="title">泰山介绍</view>
+<scroll-view>
+    <view class="smalltitle">简介：</view>
+    <view class="introArticle">
+        泰山，又名岱山、岱宗、岱岳、东岳、泰岳，为五岳之一，位于山东省中部，绵亘于泰安、济南、淄博三市之间，总面积2.42万公顷。主峰玉皇顶海拔1532.7米。 
+    </view>
+    <view class="introArticle">
+        泰山被古人视为“直通帝座”的天堂，成为百姓崇拜，帝王告祭的神山，有“泰山安，四海皆安”的说法。自秦始皇开始到清代，先后有13代帝王依次亲登泰山封禅或祭祀，另外有24代帝王遣官祭祀72次。山体上留下了20余处古建筑群，2200余处碑碣石刻。
+    </view>    
+    <view class="introArticle">
+        1982年11月8日，泰山被列入第一批国家级风景名胜区。1987年12月12日，泰山被列为世界文化与自然双重遗产。2007年3月7日，被评为国家AAAAA级旅游景区。
+    </view>
+
+    <view class="smalltitle">地理位置：</view>
+    <view class="introArticle">
+    贯穿山东中部，泰安市境内，绵亘于泰安市、济南市之间，古称“岱山”、“岱宗”，春秋时改称“泰山”。泰山前邻孔子故里曲阜，背依泉城济南。泰山雄起于华北平原之东，凌驾于齐鲁平原之上，东临大海，西靠黄河，南有汶、泗、淮之水，东西长约200千米，南北宽约50千米，主脉，支脉，余脉涉及周边十余县，盘卧面积达426平方千米，主峰玉皇顶海拔1532.7米。
+    </view>
+    
+    <view class="smalltitle">气候条件</view>
+    <view class="introArticle">
+    泰山上下的气候呈垂直变化的特征十分明显。山脚1月均温—3℃，山顶为—9℃，山下7月均温26℃，山顶为18℃；年降水量随高度而增加，山顶年降水量1132毫米，山下只有722.6毫米。山下四季分明，山顶三季如春，冬如玉，即冬有雾凇晶莹如玉，为重要景观之一。春季风沙较大。泰山冬季较长，结冰期达150天，极顶最低气温-27.5°C，形成雾凇雨凇奇观。
+    </view>
+    
+    <view class="smalltitle">自然风光</view>
+    <view style="display: flex;align-items: center; margin-bottom: 10px; padding: 10px;">
+      <image mode="widthFix" src="/images/taishan1.png"></image>
+    </view>
+    <view style="display: flex;align-items: center;margin-bottom: 10px;padding: 10px;">
+      <image mode="widthFix" src="/images/taishan2.png"></image>
+    </view>
+    <view style="display: flex;align-items: center;margin-bottom: 10px;padding: 10px;">
+      <image mode="widthFix" src="/images/taishan3.png"></image>
+    </view>
+</scroll-view>

@@ -1,0 +1,42 @@
+<!--pages/weifang/weifang.wxml-->
+<view class="title">三孔介绍</view>
+<scroll-view>
+    <view class="smalltitle">简介：</view>
+    <view class="introArticle">
+        潍坊，古称潍州、潍县，别称鸢都，是山东省地级市，国务院批复确定的山东省半岛城市群的区域中心城市。截至2018年，全市下辖4个区、2个县、代管6个县级市，总面积16167.23平方千米，截至2020年11月1日零时，潍坊市常住人口为9386705人。
+    </view>
+    <view class="introArticle">
+        潍坊市位于山东半岛西部，地跨东经118°10′～120°01′，北纬35°41′～37°26′。 气候属暖温带季风型半湿润大陆性气候，市域地貌自北向南，由低到高，形成几个台阶。潍坊市是世界风筝都，连续荣获国家环保模范城市、国家卫生城市 、国家园林城市、国家食品安全示范城市 、国际和平城市 、全国文明城市 、中国优秀旅游城市、中国特色魅力城市 、全国科技进步先进城市、全国循环经济示范市，全国双拥模范城市 、中国最具幸福感城市 ，中国外贸百强城市 等奖项，荣获中国人居环境奖。  2020年10月20日，被评为全国双拥模范城（县）。
+    </view>    
+    <view class="introArticle">
+        2018年4月2日，科技部、国家发展改革委发布支持新一批城市开展创新型城市建设的名单，全国17座城市入选，潍坊名列其中。2018年1月，潍坊入选首批社会信用体系建设示范城市，12月，2018中国大陆最佳地级城市第6名。2019年山东省新型智慧城市建设试点城市。
+    </view>
+    
+    <view class="smalltitle">地理位置：</view>
+    <view class="introArticle">
+        潍坊市位于山东半岛中部，地跨北纬35°32'至37°26'，东经118°10'至120°01'。南依泰沂山脉，北濒渤海莱州湾，东与青岛、烟台两市相接，西与东营、淄博两市为邻，地扼山东内陆腹地通往半岛地区的咽喉，胶济铁路横贯市境东西。直线距离西至省会济南183千米，西北至首都北京410千米。 [24]  总面积16167.23平方千米。
+    </view>
+
+    <view class="smalltitle">民俗风情:</view>
+    <view class="introArticle">
+        扑灰年画:
+        起源于明初。它的制作式打好腹稿以后，艺人用柳木炭条起线稿，再用画纸在线稿上扑抹复印，一稿可扑数张，因有这一招，便又“扑灰”之名。扑灰起稿之后，再加手绘，经“大涮狂涂”、“细心巧画”、“描子勾拉”、“粉脸”、“涮手”、“赋彩”、“开眉眼”、“勾线”、“涮花”、“磕盐菜花”、“描金”、“涂明油”一整套工序，才能画出一张漂亮的画来。
+    </view>
+    <view class="introArticle">
+        高密剪纸:
+        明代洪武年间大批移民，带来外地剪纸，主客融合，逐渐形成了独特的高密剪纸的风格。一是块与线形成黑白灰色调，相互衬托，对比强烈，并富有韵律感。二是纸条挺拔，浑厚粗犷，富有浓重的金石意味。三是以精巧的构思见长。
+    </view>
+
+
+    <view class="smalltitle">自然风光</view>
+    <view style="display: flex;align-items: center; margin-bottom: 10px; padding: 10px;">
+      <image mode="widthFix" src="/images/weifang1.png"></image>
+    </view>
+    <view style="display: flex;align-items: center;margin-bottom: 10px;padding: 10px;">
+      <image mode="widthFix" src="/images/weifang2.png"></image>
+    </view>
+    <view style="display: flex;align-items: center;margin-bottom: 10px;padding: 10px;">
+      <image mode="widthFix" src="/images/weifang3.png"></image>
+    </view>
+    
+</scroll-view>

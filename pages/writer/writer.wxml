@@ -1,0 +1,22 @@
+<!--pages/flashsale/flashsale.wxml-->
+<view class="bg1" >
+    <view class="box1">
+    </view>
+    <view class="box1">
+        <view style="display: flex;align-items: center;">
+            <image mode="widthFix" src="/images/writer1.png"></image>
+        </view>
+    </view>
+    <view class="backspace">
+    </view>
+    <view class="box2">
+        <view class="introMe">班级：电子信息科学与技术19-2班</view>
+        <view class="introMe">学号：201923010234</view>
+        <view class="introMe">姓名：郑立杰</view>
+    </view>
+    <view class="backspace">
+    </view>
+    <view class="box2">
+        <view class="introMe">「永远年轻，永远热泪盈眶」</view>
+    </view>
+</view>

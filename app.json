@@ -1,0 +1,41 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/writer/writer",
+        "pages/mypage/mypage",
+        "pages/logs/logs",
+        "pages/taishan/taishan",
+        "pages/jinan/jinan",
+        "pages/jining/jining",
+        "pages/weifang/weifang"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "好客山东欢迎您",
+        "navigationBarTextStyle": "black",
+        "backgroundTextStyle": "dark"
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "images/homepage_off.png",
+                "selectedIconPath": "/images/homepage_on.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/writer/writer",
+                "iconPath": "images/writer_off.png",
+                "selectedIconPath": "/images/writer_on.png",
+                "text": "作者"
+            },
+            {
+                "pagePath": "pages/mypage/mypage",
+                "iconPath": "images/mine_off.png",
+                "selectedIconPath": "/images/mine_on.png",
+                "text": "我的主页"
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
+}

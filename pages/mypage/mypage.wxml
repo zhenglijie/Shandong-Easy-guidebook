@@ -1,0 +1,22 @@
+<!--pages/mypage/mypage.wxml-->
+<view class="bg1" >
+    <view class="backspace"></view>
+    <view class="box1">
+        <view style="display: flex;align-items: center;">
+            <image mode="widthFix" src="/images/yezi.png"></image>
+        </view>
+    </view>
+    <view class="backspace"></view>
+    <view class="box2">
+        <view class="mypagefont">人的一生中至少要有两次冲动</view>
+        <view class="mypagefont">一次为奋不顾身的爱情</view>
+        <view class="mypagefont">一次为说走就走的旅行</view>
+        <view class="smallspace"></view>
+        <view class="mypagefont">——</view>
+        <view class="smallspace"></view>
+        <view class="mypagefont">Andy Andrews</view>
+    </view>
+    <view class="backspace"></view>
+    <view class="backspace"></view>
+    <button class = "btn2" bindtap="calc">立即登录，开启行程</button>
+</view>

@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<scroll-view>
+  <button class="btn" plain="true" bindtap="gotoPageIntroTaishan">
+    <view style="display: flex;align-items: center;">
+      <image mode="widthFix" src="/images/mountaintai.jpg"></image>
+    </view>
+  </button>
+
+  <button class="btn" plain="true" bindtap="gotoPageIntroJiNan"> 
+    <view style="display: flex; align-items: baseline;">
+      <image mode="widthFix"src="/images/quanchengjinan.jpg"></image>
+    </view>
+  </button>
+
+  <button class="btn" plain="true" bindtap="gotoPageIntroJiNing">
+    <view style="display: flex; align-items: baseline;">
+      <image mode="widthFix"src="/images/jiningsankong.jpg"></image>
+    </view>
+  </button>
+
+  <button class="btn" plain="true" bindtap="gotoPageIntroWeiFang">
+    <view style="display: flex;align-items: baseline;">
+      <image mode="widthFix"src="/images/yuanduweifang.jpg"></image>
+    </view>
+  </button>
+
+</scroll-view>
